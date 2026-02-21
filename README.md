@@ -1,5 +1,5 @@
 # cml_study_log
-計量経済学および因果機械学習の学習記録です。
+A learning record of econometrics and causal machine learning.
 
 2/21:today following yesterday’s OLS, i fixed log positive and log negative and just compared models with other variables, such as positive negative ratio, play time medium and so on. however as a result, probably because of multicollinearity, log positive turned negative, and ply time truly didn’t seem to have effect to CCU. moreover, positive and CCU should be simultaneous equation, thus i need to consider precise IV. in addition, i don’t know hot FE and other variables could be compatible. an first of all,  manipulating variables is too hard , so i wanna go back to textbook and gonna think instrumental validity. in conclusion, i will keep analyzing steadily. to be honest, i feel like to just estimate like kaggle competition, without strict theory.
 
