@@ -1,6 +1,8 @@
 # cml_study_log
 計量経済学および因果機械学習の学習記録です。
 
+2/21:today following yesterday’s OLS, i fixed log positive and log negative and just compared models with other variables, such as positive negative ratio, play time medium and so on. however as a result, probably because of multicollinearity, log positive turned negative, and ply time truly didn’t seem to have effect to CCU. moreover, positive and CCU should be simultaneous equation, thus i need to consider precise IV. in addition, i don’t know hot FE and other variables could be compatible. an first of all,  manipulating variables is too hard , so i wanna go back to textbook and gonna think instrumental validity. in conclusion, i will keep analyzing steadily. to be honest, i feel like to just estimate like kaggle competition, without strict theory.
+
 2/21:今日は、昨日のOLSに続いて好評価数と低評価数の対数を固定したまま他の変数(高評価低評価比率やプレイ時間の中央値など)を組み合わせて比較してみたが、結果として比率を入れるとおそらく多重共線性で好評価数の係数がマイナスに触れてしまい、また、プレイ時間は全くCCUに影響を持たないという結果になった。また、そもそもの高評価数とCCUは同時方程式感があり、IVを検討しないといけないと思っている。また、固定効果に関しても他の変数との併用の検討や、そもそものモデルに対する変数の足し引きが難しく、教科書と並行しながら操作の妥当性を考えたい。またとりあえず色々試しながら地道に分析を進めていきたい。正直一旦理論の厳密さはおいて、Kaggle的に予測をしてみたい気もする。
 
 
