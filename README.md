@@ -1,9 +1,10 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+2/23:today i tried 2024's data as Lagged Independent Variable. to check this new variable is effective, i used Lasso but this term's positive number was somehow proved to be the best. i"m gonna try debugging.
+
+
 2/22:today i used Random forest regressor to get to know which variable predicts CCU and mediun play time best, as a result, log_positive is the best one to predict and omit posi_nega_ratio, and finally i used dml to predict how actually log_positive and log_negative work, it was lower than i expected. and i noticed that it could have Simultaneous equation, so used Lasso to identify IV, but best IV was log_positive itself. thus, i installed 2024's steam dataset and probably tmr use as IV. at the end, i found that i should write README frequently, cuz it is too annoying to write it at one time.
-
-
 2/21:today following yesterday’s OLS, i fixed log positive and log negative and just compared models with other variables, such as positive negative ratio, play time medium and so on. however as a result, probably because of multicollinearity, log positive turned negative, and ply time truly didn’t seem to have effect to CCU. moreover, positive and CCU should be simultaneous equation, thus i need to consider precise IV. in addition, i don’t know hot FE and other variables could be compatible. an first of all,  manipulating variables is too hard , so i wanna go back to textbook and gonna think instrumental validity. in conclusion, i will keep analyzing steadily. to be honest, i feel like to just estimate like kaggle competition, without strict theory.  
 2/21:今日は、昨日のOLSに続いて好評価数と低評価数の対数を固定したまま他の変数(高評価低評価比率やプレイ時間の中央値など)を組み合わせて比較してみたが、結果として比率を入れるとおそらく多重共線性で好評価数の係数がマイナスに触れてしまい、また、プレイ時間は全くCCUに影響を持たないという結果になった。また、そもそもの高評価数とCCUは同時方程式感があり、IVを検討しないといけないと思っている。また、固定効果に関しても他の変数との併用の検討や、そもそものモデルに対する変数の足し引きが難しく、教科書と並行しながら操作の妥当性を考えたい。またとりあえず色々試しながら地道に分析を進めていきたい。正直一旦理論の厳密さはおいて、Kaggle的に予測をしてみたい気もする。  
 2/20:今日はゲームのPublisherについて固定効果モデルを回してみた。薮本で学んだ内容だが、仕組みなどをかなり忘れていたので復習した。薮本では「時間を通じて一定の変数は固定効果モデルをかけると変数が消えてしまうからだめ」と学んだのだが、Geminiによると実際はそれでも使う場合が多いらしい、理由はまだ理解できていない。また、サンプル数が1の場合だとその個体の定数が極端に説明力を持ってしまうためDropすることも検討した方がいいが、実証分析ではなく予測にフォーカスする場合はそれも重要な説明力だと判断するため残すこともあるらしい。今回は売れたゲームの売れた要因を知ることが目的なので、残さずにn＝1のものは省くことにする。また、高評価数と低評価数の対数と価格に対してハウスマン検定を行った。固定効果を用いることが妥当となったが、実は概念理解しかしておらず、数理的な理解はできてないので詰めたい。  
