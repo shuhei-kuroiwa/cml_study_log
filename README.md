@@ -1,8 +1,9 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
-3/10: today i prepared for and took an econometrics quiz, and did CML class homework(to estimate STRatio' CATE in popular data), and read Sueishi 6th chapter. from tomorrow, i wanna review sueishi textbook from 1th to 6th chapters to rebuild basic econometrics faculty. or im little bit busy till next weekend, so wanna keep reading and understanding Chen(2025) online.   
+3/11: today i reviewed Sueishi textbook's 1st chapter, and restart reading Chen(2025), actually i couldn't prove why they are efficient mathematically, but first of all i wanna read through that and wanna understand little by litte.
 
+3/10: today i prepared for and took an econometrics quiz, and did CML class homework(to estimate STRatio' CATE in popular data), and read Sueishi 6th chapter. from tomorrow, i wanna review sueishi textbook from 1th to 6th chapters to rebuild basic econometrics faculty. or im little bit busy till next weekend, so wanna keep reading and understanding Chen(2025) online.   
 3/9: today i learned how to deriviate IMR and how it works in corner solution outcome model and hoow different censoring model and corner solution outcome model. aside from this i prepared for trm's econometrics quiz.  
 3/8: today i reviewed econometrics homework and finished preparing for next week's classes so finally i returned to my CML learning. first, i started from sueishi 6th chapter to get understood IMR and Heckit, and learned GMM aproach and MLE have similar basic system(like mean and expected value), but these 2 aproached have different directionality to estimate(from moment condition or distrubution).  
 3/7: today i reviewed OLSE in this repository's notebook and text(Sueishi). aside from this, i checked my classwork of introductory econometrics and reviewd CML class. using R is gradually fitting my hand and i feel like it is really intuitive language, probably i got the reason why most economist and statistician use R not Python, if i start calculating with R, switching to Python would be so hard.  
