@@ -1,8 +1,9 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
-3/11: today i reviewed Sueishi textbook's 1st chapter, and restart reading Chen(2025), actually i couldn't prove why they are efficient mathematically, but first of all i wanna read through that and wanna understand little by litte.
+3:12: today i couldn't take enough time for coding, so read paper while moving. i learned the difference between dynamic policy learning and normal Causual Machine Learning, i know that CML is interesting field but to implement this method, dynamic policy learning should be the most important, however it feels hard to get dynamic data to study this, probably i will need some simulation skill, but not for now, bcz n=1 basic is the most important and dynamic method is my long term objective. so i just wanna study basic CML n=1 method.  
 
+3/11: today i reviewed Sueishi textbook's 1st chapter, and restart reading Chen(2025), actually i couldn't prove why they are efficient mathematically, but first of all i wanna read through that and wanna understand little by litte.
 3/10: today i prepared for and took an econometrics quiz, and did CML class homework(to estimate STRatio' CATE in popular data), and read Sueishi 6th chapter. from tomorrow, i wanna review sueishi textbook from 1th to 6th chapters to rebuild basic econometrics faculty. or im little bit busy till next weekend, so wanna keep reading and understanding Chen(2025) online.   
 3/9: today i learned how to deriviate IMR and how it works in corner solution outcome model and hoow different censoring model and corner solution outcome model. aside from this i prepared for trm's econometrics quiz.  
 3/8: today i reviewed econometrics homework and finished preparing for next week's classes so finally i returned to my CML learning. first, i started from sueishi 6th chapter to get understood IMR and Heckit, and learned GMM aproach and MLE have similar basic system(like mean and expected value), but these 2 aproached have different directionality to estimate(from moment condition or distrubution).  
