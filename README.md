@@ -1,8 +1,9 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
-3/15: today i just checked my home university's classes and prepare for them.  
+3/16: today read Chen(2025), and learned R-Learner.
 
+3/15: today i just checked my home university's classes and prepare for them.  
 3/14: today i read Chen(2025), and learned the difference between DR learner and X learner, and why DR learner is specially robust and how it derive CATE.  
 3/13: today i read Chen a little bit, and learned how each meta-learners move and can build prediction models.  
 3/12: today i couldn't take enough time for coding, so read paper while moving. i learned the difference between dynamic policy learning and normal Causual Machine Learning, i know that CML is interesting field but to implement this method, dynamic policy learning should be the most important, however it feels hard to get dynamic data to study this, probably i will need some simulation skill, but not for now, bcz n=1 basic is the most important and dynamic method is my long term objective. so i just wanna study basic CML n=1 method.  
