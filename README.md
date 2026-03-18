@@ -1,8 +1,9 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
-3/17: today i had a class, and just checked code.   
+3/18: today i had a class and learned how we can do t-test calculations.  
 
+3/17: today i had a class, and just checked code.   
 3/16: today read Chen(2025), and learned R-Learner.
 3/15: today i just checked my home university's classes and prepare for them.  
 3/14: today i read Chen(2025), and learned the difference between DR learner and X learner, and why DR learner is specially robust and how it derive CATE.  
