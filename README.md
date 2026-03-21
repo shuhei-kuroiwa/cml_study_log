@@ -2,7 +2,6 @@
 A learning record of econometrics and causal machine learning.
 
 3/20: today i checked GMM part of sueishi econometrics.  
-
 3/19: today i checked basic OLS theory.  
 3/18: today i had a class and learned how we can do t-test calculations.  
 3/17: today i had a class, and just checked code.   
