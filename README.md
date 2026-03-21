@@ -1,6 +1,8 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+3/21: finally i came back to my dorm so restarted authentic econometrics study. today i made a simple paper planning presentation for seminar. but i thought i didnt mathmatically understand how my method works better than others and why it is valid. hence i wanna keep learning paper and textbook. but for now i really need to review my ntu classes and prepare for offline quiz.  
+
 3/20: today i checked GMM part of sueishi econometrics.  
 3/19: today i checked basic OLS theory.  
 3/18: today i had a class and learned how we can do t-test calculations.  
