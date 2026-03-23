@@ -1,8 +1,9 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
-3/22: today i reviewed econometrics class and classwork. actually i feel it is too long to travel for 11 days so i really forgot grammer of R, so seriouslly struggled with this task. in addition, 2 days later i will have a quiz so probably tmr i will still need to study this topic. i really wanna return back to stracturing model.  
+3/23: today i did a rehab of my R skill and econometrics. i reviewed last week's econometrics and CML classes, but it was really hard, because rehabilitation of math is more difficult than pure coding, thus needed much time. so i just took time to prepare for tmr's quiz and classes.  
 
+3/22: today i reviewed econometrics class and classwork. actually i feel it is too long to travel for 11 days so i really forgot grammer of R, so seriouslly struggled with this task. in addition, 2 days later i will have a quiz so probably tmr i will still need to study this topic. i really wanna return back to stracturing model.  
 3/21: finally i came back to my dorm so restarted authentic econometrics study. today i made a simple paper planning presentation for seminar. but i thought i didnt mathmatically understand how my method works better than others and why it is valid. hence i wanna keep learning paper and textbook. but for now i really need to review my ntu classes and prepare for offline quiz.  
 3/20: today i checked GMM part of sueishi econometrics.  
 3/19: today i checked basic OLS theory.  
