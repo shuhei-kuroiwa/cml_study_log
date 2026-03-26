@@ -1,6 +1,8 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+3/26: today i just kept writing my paper and tried to understand how IMR worked in my model.  
+
 3/25: today i returned back to my paper, Heckman-DML. as expected, i almost forgot my identification strategy, but i will gradually get back my knowledge. and actually im fulfilled to study what i wanna do.  
 3/24: today i finally took an R test in the class. but lots of questions were too hard and really maniac,  thus i don't know how many points i could take. and just reviewd R and econometrics, probably in one or 2 days, i will be able to go back to the field what i want to study.  
 3/23: today i did a rehab of my R skill and econometrics. i reviewed last week's econometrics and CML classes, but it was really hard, because rehabilitation of math is more difficult than pure coding, thus needed much time. so i just took time to prepare for tmr's quiz and classes.  
