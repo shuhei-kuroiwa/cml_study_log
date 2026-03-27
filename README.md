@@ -1,7 +1,7 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
-3/27: today i kept reading Chen(205) and tried to understand DML model mathematically. aside from this, i checked my econometrics homework and checked econometrics's basic theory.
+3/27: today i kept reading Chen(2025) and tried to understand DML model mathematically. aside from this, i checked my econometrics homework and checked econometrics's basic theory.
 
 3/26: today i just kept writing my paper and tried to understand how IMR worked in my model.  
 3/25: today i returned back to my paper, Heckman-DML. as expected, i almost forgot my identification strategy, but i will gradually get back my knowledge. and actually im fulfilled to study what i wanna do.  
