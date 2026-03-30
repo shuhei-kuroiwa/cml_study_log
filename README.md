@@ -2,7 +2,6 @@
 A learning record of econometrics and causal machine learning.
 
 3/29: following yesterday, i was absorbed in making aiagent to send me summary of econometrics paper on google scholar, i just wanted to use my time to make something but already spent roughly 10 hours. what a dangerous playing, i felt. in econometrics field, i checked CML classes's PDF and checked CASchools model.  
-
 3/28: today inchecked my cml classes's notebook.  
 3/27: today i kept reading Chen(2025) and tried to understand DML model mathematically. aside from this, i checked my econometrics homework and checked econometrics's basic theory.
 3/26: today i just kept writing my paper and tried to understand how IMR worked in my model.  
