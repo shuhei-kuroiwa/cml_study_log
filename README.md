@@ -1,6 +1,8 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+3/31: today i reviewed CML class and prepared for econometrics.  
+
 3/30: today i finished my homework of CML class. it was hard because of my experience. it has been just 2 or 3 months from starting econometrics, so i definitely lack of "econometrics experience " and actually never tried stead identification strategy. so it was good chance for me.  
 3/29: following yesterday, i was absorbed in making aiagent to send me summary of econometrics paper on google scholar, i just wanted to use my time to make something but already spent roughly 10 hours. what a dangerous playing, i felt. in econometrics field, i checked CML classes's PDF and checked CASchools model.  
 3/28: today inchecked my cml classes's notebook.  
