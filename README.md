@@ -1,5 +1,10 @@
 # cml_study_log
 A learning record of econometrics and causal machine learning.
+## About
+Economics student at Kobe Univ / NTU exchange.
+Studying causal ML and econometrics toward a research career in Southeast Asia.
+Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
+
 
 3/31: today i reviewed CML class and prepared for econometrics.  
 3/30: today i finished my homework of CML class. it was hard because of my experience. it has been just 2 or 3 months from starting econometrics, so i definitely lack of "econometrics experience " and actually never tried stead identification strategy. so it was good chance for me.  
