@@ -1,6 +1,13 @@
+## About
+Economics student at Kobe Univ / NTU exchange.
+Studying causal ML and econometrics toward a research career in Southeast Asia.
+Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
+
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+4/2: today i struggled with hangover so just tried rehabilitation skill (not like reading paper). i reviewed my econometrics class and learned how to calculate robust se on R, i usually use python so lm library is really fits my hand, and to be honest, i felt screenreg is more useful than stargazer, and R's lm is easier to use. and actually i had never played steam game even im analying, so finished installing that and just explored, wanna try some games as research.  
+4/1: today i made a final version of presentation for seminar. and finally get understood heckman model(struggled roughly 1 month) and found some improvement points. for example Heckman's Exclusion Restrictions and linear assumption of DML's last model. so i wanna keep fixing.    
 3/31: today i reviewed CML class and prepared for econometrics.  
 3/30: today i finished my homework of CML class. it was hard because of my experience. it has been just 2 or 3 months from starting econometrics, so i definitely lack of "econometrics experience " and actually never tried stead identification strategy. so it was good chance for me.  
 3/29: following yesterday, i was absorbed in making aiagent to send me summary of econometrics paper on google scholar, i just wanted to use my time to make something but already spent roughly 10 hours. what a dangerous playing, i felt. in econometrics field, i checked CML classes's PDF and checked CASchools model.  
