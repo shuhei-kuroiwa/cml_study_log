@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 4/3: today i finally finished reading through Chen(2025)'s static model part. to be honest, the second half was crazy hard so i havent understood yet but i could get what i should. first, i will return and read through to sueishi textbook's 5th to 7th part, because they must be a basic part of Chen(2025)'s important concept, such as Neyman orthogonality and so on. and reading them and reviewing at the same time should be highly effective to learn.  
-
 4/2: today i struggled with hangover so just tried rehabilitation skill (not like reading paper). i reviewed my econometrics class and learned how to calculate robust se on R, i usually use python so lm library is really fits my hand, and to be honest, i felt screenreg is more useful than stargazer, and R's lm is easier to use. and actually i had never played steam game even im analying, so finished installing that and just explored, wanna try some games as research.  
 4/1: today i made a final version of presentation for seminar. and finally get understood heckman model(struggled roughly 1 month) and found some improvement points. for example Heckman's Exclusion Restrictions and linear assumption of DML's last model. so i wanna keep fixing.    
 3/31: today i reviewed CML class and prepared for econometrics.  
