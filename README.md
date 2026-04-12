@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 4/11: today finally i submitted my statistics task and start preparing for econometrics test. and tasks while moving is one of the most difficult problem for me, for example normally iuse vscide, textbook and aistudio(optimized to pc). so it is really difficult to do such a task. today i downloaded goonotes app on my smartphone but still not so good.  
-
 4/10: i did my statistical homework. and tomorrow i will double check and submit.  
 4/9: i joined NTU's IO seminar and contents were fascinating. first of all i didnt have much interest in theoretical IO but his seminar included how comapanies's entry strategy can contribute to market and he described mathmatically (even i could not understand whole mathmatics lol), so it was good opportunity. and first of all i was going to causual inference seminar but it was conducted in chinese, this double difficukty was too hard for me so quietly went out from classroom. other than that, i did my statistical homework.  
 4/8: i reviewed econometrics class and classwork, and midterm is coming in 2 weeks so i really need to study, and for next week's econometrics's quiz. and today my friend told me a economics seminar at NTU and seminar's field looks truely interesting, i dont know my body condition are fine tmr but if i can, wanna join tmr. and i remembered kobe's RIEB also have great seminar on an economics field, so when i returned to Kobe i wanna join that asap.  
