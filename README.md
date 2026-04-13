@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+4/13: today i kept preparing for econometrics quiz and asked my home uni's prof to consult with my career. and had a first process presentation of my paper, but actually i felt it is so hard to explain methodology to my friends but i have no time to study so carefully now, so wanna keep doing after this midterm period.  
+
 4/12: i prepared for my econometrics quiz and midterm. and write 2 mails to NTU professors. i feel i acted like a perfectionist, this 1 month my study pace is slow because two models im using is hard to understand and normally my classes are also busy, so i was going to send email to them after i mathmatically understand the model. but this is impossible for now so just sent casually. my university's professor also taught me professors dont expect me to have enough knowledge to discuss (when i think about it calmly, it is only natural! they must be around 20 years elder than me and im just a bachelor!), so i sent it with ease.  
 4/11: today finally i submitted my statistics task and start preparing for econometrics test. and tasks while moving is one of the most difficult problem for me, for example normally iuse vscide, textbook and aistudio(optimized to pc). so it is really difficult to do such a task. today i downloaded goonotes app on my smartphone but still not so good.  
 4/10: i did my statistical homework. and tomorrow i will double check and submit.  
