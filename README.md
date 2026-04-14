@@ -1,6 +1,6 @@
 ## About
 Economics student at Kobe Univ / NTU exchange.
-Studying causal ML and econometrics toward a research career in Southeast Asia.
+Studying causal ML and econometrics toward a research career in Asia.
 Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 
 # cml_study_log
