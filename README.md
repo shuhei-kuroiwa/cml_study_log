@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+4/19: keep studying GMM.  
+
 4/18: i kept studying GMM.  
 4/17: i reviewed basic ols theory.  
 4/16: i just reviewed GMM theory.  
