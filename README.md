@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 4/18: i kept studying GMM.  
-
 4/17: i reviewed basic ols theory.  
 4/16: i just reviewed GMM theory.  
 4/15: today i checked basic OLS theory with yabu text and restarted reading GMM chapter of sueishi text. it was so hard to get understood methodology, like conversion speed √n is needed in GMM and why it is also important in DML too, how to derive variance of GMM.  
