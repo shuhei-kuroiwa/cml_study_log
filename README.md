@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+4/20: today i read and rewrite devriations from 82 to 87 pages, and reviewed how to select weight matrix in GMME and how effective it is. actually i couldnot get why GMME is effective even in nonlinear model because it is too difficult and this textbook does not tell me about it. but for now i could understand how effective that is.  
+
 4/19: keep studying GMM.  
 4/18: i kept studying GMM.  
 4/17: i reviewed basic ols theory.  
