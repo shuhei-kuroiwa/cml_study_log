@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 4/24: i kept reading sueishi 6th chapter and got understood the difference between censored regression model and truncation regression model.  
-
 4/23: i kept reading sueishi 6th chapter, and writed tobot model derivation and get understood general flow.  
 4/22: today i took a midterm of econometrics and it was more difficult than i expected, i hope score won't be so bad. and i found i forgot some econometrics basic skills like hot to prove consistency of some estimators and standard error deformation in difference test. after exam returned i will review them. and i started sueishi 6th chapter and this time i wanna study more agilely.  
 4/21: today i fianlly read and rewrite thlough sueishi's 5th chapter by myself, it took too long for me (only 5th part took me 2 months and i regret doing that, i should tackle with it more agilely..), lots of part(like optimal IV by Chamberlain(1987), EL and variance of GMM) was really hard and i skipped some of them. but i think it is enough for now. studying them must take me so many time and this work is not for me at least right now. and sueishi-econometrics-notes must be worked on casually and it is long-term repository, someday i will do them. after that i started to prepare for tmr's midterm. i hope exam wont be weird.  
