@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 4/26: kept reading 6th chapter and tried to understand heckit's efficiency and validity. both IV and heckit are difficult to use and got understood explanations to use is really hard and other traditional methods.  
-
 4/25: kept reading 6th chapter and read heckit pages.  
 4/24: i kept reading sueishi 6th chapter and got understood the difference between censored regression model and truncation regression model.  
 4/23: i kept reading sueishi 6th chapter, and writed tobot model derivation and get understood general flow.  
