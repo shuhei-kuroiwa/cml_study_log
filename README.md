@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+4/29: kept reviewing econometrics midterm.  
+
 4/28: i reviewed econometrics's midterm.   
 4/27: prepared for tomorrow's cml class and kept reading 6th chapter and start writing by myself.  
 4/26: kept reading 6th chapter and tried to understand heckit's efficiency and validity. both IV and heckit are difficult to use and got understood explanations to use is really hard and other traditional methods.  
