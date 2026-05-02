@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 5/1; checked some companies that have good relationships with my interests, and kept studying Heckit in 6th chapter.  
-
 4/30: reviewed econometrics class and ta session. and kept rewriting sueishi 6th chapter.  
 4/29: kept reviewing econometrics midterm.  
 4/28: i reviewed econometrics's midterm.   
