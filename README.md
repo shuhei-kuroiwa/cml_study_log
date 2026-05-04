@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 5/3: today i finally finished rewriting sueishi 6th chapter, but actually getting understood was too hard and for now i strongly go back to yabu-textbook, in the near future! and gradually understand my actual identification strategy is not based on Heckit probably on other methods. but tmr i wanna consider and make a presentation again.  
-
 5/2: quickly reviewed ols.  
 5/1: checked some companies that have good relationships with my interests, and kept studying Heckit in 6th chapter.  
 4/30: reviewed econometrics class and ta session. and kept rewriting sueishi 6th chapter.  
